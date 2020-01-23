@@ -1,3 +1,5 @@
+Hello PHP world
+
 <?php
 
 $config = [
